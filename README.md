@@ -28,5 +28,13 @@ however when looking at individual lots we can see that lot three had a variance
 
 ## Deliverable 3: T-Tests on Suspension Coils
 
+![chart](Resources/4.PNG)
+
+![chart](Resources/5.PNG)
+
+![chart](Resources/6.PNG)
+
+![chart](Resources/7.PNG)
+
 
 ## Study Design: MechaCar vs Competition
