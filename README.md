@@ -16,6 +16,8 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 Although there is correlation, our r squared value is only .7149. meaning 71% of the variability of our study can be explained using this model. Further can be done to make the prediction more effective.
 
+## Deliverable 2: Summary Statistics on Suspension Coils
+
 ![chart](Resources/2.PNG)
 
 ![chart](Resources/3.PNG)
