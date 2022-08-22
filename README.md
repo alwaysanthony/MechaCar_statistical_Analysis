@@ -32,9 +32,24 @@ however when looking at individual lots we can see that lot three had a variance
 
 ![chart](Resources/5.PNG)
 
+![chart](Resources/7.PNG)
+
 ![chart](Resources/6.PNG)
 
-![chart](Resources/7.PNG)
+### summary of t-test results for all lots and each
+
+All lots p-value is .06028
+
+Lot 1 p-value is 1, Lot 2 p-value is 0.6072, Lot 3 p-value is 0.04168. p-value for lot 3 is very low, below .05 and and we can rejust the null hypothesis for this lot.
 
 
 ## Study Design: MechaCar vs Competition
+
+Tere can be many metrics that would be of interest to a consumer. Initial cost, maintenance cost, fuel economy, and horse power are some to mention.
+
+It would be easy to compare these mestrics against the competition.
+
+Potential null hypothesis: MechaCar has statistical difference in fuel efficiency when compared to the competition.
+
+The data needed to run the statistical test will be miles per gallon.
+
