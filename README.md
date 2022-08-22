@@ -45,7 +45,7 @@ Lot 1 p-value is 1, Lot 2 p-value is 0.6072, Lot 3 p-value is 0.04168. p-value f
 
 ## Study Design: MechaCar vs Competition
 
-Tere can be many metrics that would be of interest to a consumer. Initial cost, maintenance cost, fuel economy, and horse power are some to mention.
+There can be many metrics that would be of interest to a consumer. Initial cost, maintenance cost, fuel economy, and horse power are some to mention.
 
 It would be easy to compare these mestrics against the competition.
 
